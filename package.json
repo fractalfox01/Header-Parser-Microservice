@@ -4,7 +4,8 @@
   "description": "A Parser that displays json formatted information about the incomming http server request headers",
   "main": "server.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
