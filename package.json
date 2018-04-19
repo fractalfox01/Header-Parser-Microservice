@@ -1,0 +1,25 @@
+{
+  "name": "header-parser-microservice",
+  "version": "1.0.0",
+  "description": "A Parser that displays json formatted information about the incomming http server request headers",
+  "main": "server.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fractalfox01/Header-Parser-Microservice.git"
+  },
+  "keywords": [
+    "Expressjs",
+    "Nodejs",
+    "Microservice",
+    "http-request-header-parser"
+  ],
+  "author": "Tommy V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fractalfox01/Header-Parser-Microservice/issues"
+  },
+  "homepage": "https://github.com/fractalfox01/Header-Parser-Microservice#readme"
+}
