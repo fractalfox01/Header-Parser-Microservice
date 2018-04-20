@@ -3,6 +3,7 @@ const app = express();
 const path = require('path');
 
 // Link to running solution: https://fractalfox-headermicroservice.glitch.me/
+// Link in this index.html points to the running solution, fyi
 app.all('/', (req, res) => {
   res.status(200);
   let nat = req.rawHeaders;
