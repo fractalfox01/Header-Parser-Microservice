@@ -6,16 +6,16 @@
 
 ### Basic Usage:
  * __Install from Github__
- 
-       $ git clone https://github.com/fractalfox01/Header-Parser-Microservice
+   '$ git clone https://github.com/fractalfox01/Header-Parser-Microservice'
  * __Install Npm and Nodejs__
 
    ###### Follow your systems guideline's for installation. 
 
- * __Instantiate Project__
- 
-       $ npm install 
+ * __Instantiate and install__
+   '$ npm init'
+   '$ npm install'
+   
    After Dependencies are Installed.
-       
-       $ npm start
+   '$ npm start'
+   
    Then open a browser to localhost:3000
