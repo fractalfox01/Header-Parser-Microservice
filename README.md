@@ -5,17 +5,20 @@
  * __User Story__: **I can get the IP address, language and operating system for my browser.**
 
 ### Basic Usage:
- * __Install from Github__
-   '$ git clone https://github.com/fractalfox01/Header-Parser-Microservice'
+ * __Install from Github:__
+    
+        $ git clone https://github.com/fractalfox01/Header-Parser-Microservice.git
  * __Install Npm and Nodejs__
 
    ###### Follow your systems guideline's for installation. 
 
  * __Instantiate and install__
-   '$ npm init'
-   '$ npm install'
+        
+        $ npm init
+        $ npm install
    
    After Dependencies are Installed.
-   '$ npm start'
+        
+        $ npm start
    
-   Then open a browser to localhost:3000
+      Then open a browser to localhost:3000
