@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/fractalfox01/Header-Parser-Microservice#readme",
   "dependencies": {
-    "express": "^4.16.3",
-    "moment": "^2.22.1"
+    "express": "^4.16.3"
   }
 }
